@@ -1,3 +1,6 @@
+#<<<<<<< HEAD
+
+#=======
 import os
 from urllib.parse import quote
 from anthropic import Anthropic
@@ -69,7 +72,7 @@ client = Anthropic(api_key=api_key)
 # Chat function
 # ------------------------
 
-def run_chat():
+def run_agent2():
 
     print("You: (type exit to quit)")
 
@@ -148,4 +151,7 @@ Weather information:
 
 
 run_chat()
+# ------------------------
+#run_chat()
 
+#>>>>>>> 6128ef1d4d07a72777d4a2c33a68c945318f78aa

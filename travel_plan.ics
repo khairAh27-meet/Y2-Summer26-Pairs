@@ -1,0 +1,138 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//AI Travel Planner//EN
+
+BEGIN:VEVENT
+SUMMARY:paris Trip - Day 1
+DESCRIPTION: 1 - Saturday, July 27 **Arrival 
+DTSTART;VALUE=DATE:20260727
+DTEND;VALUE=DATE:20260727
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:paris Trip - Day 2
+DESCRIPTION:**  **Morning** - Arrive at Charles de Gaulle Airport - Transfer to hotel in the Marais district - Check-in and rest  **Afternoon** - Stroll through the Canal Saint-Martin, observing native bird species and riverside vegetation - Visit the nearby Parc des Buttes-aux-Cailles for panoramic views and green spaces  **Evening** - Dinner in the Marais district - Evening walk along the Seine to appreciate the city's natural light  ---  ## 
+DTSTART;VALUE=DATE:20260728
+DTEND;VALUE=DATE:20260728
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:paris Trip - Day 3
+DESCRIPTION: 2 - Sunday, July 28 **Parks & Gardens Introduction**  **Morning** - Explore the Luxembourg Gardens (Jardin du Luxembourg) - Observe the garden's botanical diversity and relax by the pond  **Afternoon** - Visit the Botanical Garden (Jardin des Plantes) - Explore the Natural History Museum within the gardens  **Evening** - Picnic dinner in the gardens while watching the sunset - Walk along the Left Bank  ---  ## 
+DTSTART;VALUE=DATE:20260729
+DTEND;VALUE=DATE:20260729
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:paris Trip - Day 4
+DESCRIPTION: 3 - Monday, July 29 **Versailles 
+DTSTART;VALUE=DATE:20260730
+DTEND;VALUE=DATE:20260730
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:paris Trip - Day 5
+DESCRIPTION: Trip**  **Morning** - Travel to Palace of Versailles - Explore the magnificent formal gardens and landscaping  **Afternoon** - Rent a bicycle to ride through the vast estate grounds - Visit the Petit Trianon gardens and Marie Antoinette's hamlet with its pastoral setting  **Evening** - Return to Paris - Dinner in a local bistro  ---  ## 
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260731
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:paris Trip - Day 6
+DESCRIPTION: 4 - Tuesday, July 30 **Forest & Nature Reserve**  **Morning** - 
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260801
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:paris Trip - Day 7
+DESCRIPTION: trip to Fontainebleau Forest (Forêt de Fontainebleau) - Guided hiking through natural woodland trails  **Afternoon** - Explore the forest's rock formations and natural features - Visit the stunning palace gardens at Fontainebleau  **Evening** - Return to Paris - Relaxation at hotel  ---  ## 
+DTSTART;VALUE=DATE:20260802
+DTEND;VALUE=DATE:20260802
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:paris Trip - Day 8
+DESCRIPTION: 5 - Wednesday, July 31 **Water Features & Islands**  **Morning** - Visit Île de la Cité - Explore Sainte-Chapelle's stained glass and surrounding greenery  **Afternoon** - Cross to Île Saint-Louis - Walk along the Seine riverbanks observing water birds and natural landscapes  **Evening** - Seine river cruise at sunset to observe the city from a nature perspective - Dinner with riverside views  ---  ## 
+DTSTART;VALUE=DATE:20260803
+DTEND;VALUE=DATE:20260803
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:paris Trip - Day 9
+DESCRIPTION: 6 - Thursday, August 1 **Modern Green Spaces**  **Morning** - Explore Parc Monceau in the 8th arrondissement - Observe the park's ecological diversity and seasonal flowers  **Afternoon** - Visit the innovative Parc André-Citroën with its modern landscape design - Walk through the greenhouses and water features  **Evening** - Dinner in the Boulogne-Billancourt area - Evening stroll through neighborhood parks  ---  ## 
+DTSTART;VALUE=DATE:20260804
+DTEND;VALUE=DATE:20260804
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:paris Trip - Day 10
+DESCRIPTION: 7 - Friday, August 2 **Rest 
+DTSTART;VALUE=DATE:20260805
+DTEND;VALUE=DATE:20260805
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:paris Trip - Day 11
+DESCRIPTION: & Local Nature**  **Morning** - Visit the Père Lachaise Cemetery with its tree-lined paths and natural atmosphere - Observe the peaceful, garden-like setting  **Afternoon** - Explore Montmartre's quieter green spaces and vineyards - Sacré-Cœur basilica gardens for city views  **Evening** - Casual dinner in Montmartre - Walk through local neighborhoods  ---  ## 
+DTSTART;VALUE=DATE:20260806
+DTEND;VALUE=DATE:20260806
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:paris Trip - Day 12
+DESCRIPTION: 8 - Saturday, August 3 **
+DTSTART;VALUE=DATE:20260807
+DTEND;VALUE=DATE:20260807
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:paris Trip - Day 13
+DESCRIPTION: Trip: Monet's Gardens**  **Morning** - Travel to Giverny - Explore Claude Monet's House and inspiring gardens - See the famous Japanese bridge and water lilies  **Afternoon** - Wander the artistic landscape gardens - Visit the Museum of Impressionisms nearby  **Evening** - Return to Paris - Dinner near your hotel  ---  ## 
+DTSTART;VALUE=DATE:20260808
+DTEND;VALUE=DATE:20260808
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:paris Trip - Day 14
+DESCRIPTION: 9 - Sunday, August 4 **Bois de Boulogne Exploration**  **Morning** - Explore the expansive Bois de Boulogne forest - Rent bicycles to cover more ground  **Afternoon** - Visit the Bagatelle Garden within the Bois - Explore the lakes and natural woodlands - Observe waterfowl and native vegetation  **Evening** - Picnic dinner in the park - Sunset viewing from elevated areas  ---  ## 
+DTSTART;VALUE=DATE:20260809
+DTEND;VALUE=DATE:20260809
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:paris Trip - Day 15
+DESCRIPTION: 10 - Monday, August 5 **Lesser-Known Green Spaces**  **Morning** - Visit Square des Peupliers, a hidden residential garden - Explore the charming Passage des Panoramas  **Afternoon** - Discover Bois de Vincennes and its nature trails - Visit the château and surrounding forests  **Evening** - Dinner in the Vincennes area - Evening nature walk  ---  ## 
+DTSTART;VALUE=DATE:20260810
+DTEND;VALUE=DATE:20260810
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:paris Trip - Day 16
+DESCRIPTION: 11 - Tuesday, August 6 **Water & Wildlife Focus**  **Morning** - Visit Lac Daumesnil in Bois de Vincennes - Bird watching and observation of aquatic ecosystems  **Afternoon** - Explore the Parc Floral within Bois de Vincennes - See seasonal flower displays and natural plantings  **Evening** - Seine river walk from Pont d'Alma to Pont de l'Alma - Dinner with Seine views  ---  ## 
+DTSTART;VALUE=DATE:20260811
+DTEND;VALUE=DATE:20260811
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:paris Trip - Day 17
+DESCRIPTION: 12 - Wednesday, August 7 **Relaxation & Reflection**  **Morning** - Revisit favorite park or garden from the trip - Peaceful morning meditation in nature  **Afternoon** - Final shopping and exploration of neighborhood parks - Café time in a park setting  **Evening** - Special farewell dinner at a restaurant with garden seating - Gentle evening stroll through familiar streets  ---  ## 
+DTSTART;VALUE=DATE:20260812
+DTEND;VALUE=DATE:20260812
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:paris Trip - Day 18
+DESCRIPTION: 13 - Thursday, August 8 **Departure 
+DTSTART;VALUE=DATE:20260813
+DTEND;VALUE=DATE:20260813
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:paris Trip - Day 19
+DESCRIPTION:**  **Morning** - Final breakfast at a neighborhood café - Last-minute park visit if time permits  **Afternoon** - Check-out from hotel - Transfer to Charles de Gaulle Airport - Departure  ---  ## Travel Tips for Nature Lovers: - Purchase a Paris Museum Pass for unlimited garden and museum access - Consider buying a Paris Visite pass for unlimited public transport - Bring comfortable walking shoes and weather-appropriate clothing - Many gardens have seasonal variations—early August will feature summer blooms - Join local nature walks or guided tours for deeper ecological insights - Pack a
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260814
+END:VEVENT
+
+END:VCALENDAR

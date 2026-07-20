@@ -74,7 +74,7 @@ def run_chat():
     print("You: (type exit to quit)")
 
     system_message = """
-Your job is to provide real travel answers and do not make up facts.
+your name is jack, Your job is to provide real travel answers and do not make up facts.
 
 Rules:
 - Be creative
@@ -143,9 +143,9 @@ Weather information:
         })
 
 
-# ------------------------
+
 # Start program
-# ------------------------
+
 
 run_chat()
 
